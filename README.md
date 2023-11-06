@@ -52,6 +52,9 @@ To aid in the testing process, a standard set of 100 short video files is suppli
 
 ### Architecture
 The system's architecture is segmented into two primary tiers: the Web Tier (front-end) and the App Tier (back-end).
+
+![image](https://github.com/purulokendrasingh/CC-Project2/assets/29207426/c5b94840-ce04-49a9-99c2-2fc891a3387d)
+
 •	Web Tier: This layer provides the user interface that facilitates interaction with the application. To enhance user experience and ensure smooth operations, we have integrated two AWS S3 buckets into this tier:
 1.	Input Bucket: Allows users to upload classroom videos.
 2.	Output Bucket: Serves as a repository for academic data linked to recognized students.
